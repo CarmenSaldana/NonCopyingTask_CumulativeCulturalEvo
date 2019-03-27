@@ -4,7 +4,7 @@ This repository contains the experimental data files for the manuscript "High-fi
 
 `dataChildren.csv` and `dataBaboons.csv` contain the data sets for the children and baboons experiments respectively. 
 
-### Descriptions of the column headings for each experiment are as follows: 
+### Descriptions of the column headings for each data file are as follows: 
 
 - `GridSeen` : input pattern
 - `GridDone` : output pattern
