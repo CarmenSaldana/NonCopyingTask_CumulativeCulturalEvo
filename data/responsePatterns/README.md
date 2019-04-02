@@ -9,4 +9,4 @@ Grid patterns are colour coded to reflect the tetromino class each pattern comes
 - `blue`:  L-shapes
 - `brown`: T-shapes
 - `yellow`: S-shapes
-- `black`: non-tetromino
+- `black`: non-tetrominoes
