@@ -2,7 +2,7 @@
 
 This repository contains the experimental data files for the manuscript "High-fidelity copying is not the key to cumulative cultural evolution: A study in monkeys and children" by Saldana, Fagot, Kirby, Smith and Claidiere (2018).
 
-`dataChildren.csv` and `dataBaboons.csv` contain the data sets for the children and baboons experiments respectively. The `responsePatterns' folder contains the visualisations of the response grid patterns.
+`dataChildren.csv` and `dataBaboons.csv` contain the data sets for the children and baboons experiments respectively. The `responsePatterns` folder contains the visualisations of the response grid patterns.
 
 ### Descriptions of the column headings for each .csv data file are as follows: 
 
