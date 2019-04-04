@@ -9,3 +9,6 @@ Each `Gird number` corresponds to a different pattern of four squares (`S1`-`S4`
                                              [ 9,10,11,12]
                                              [13,14,15,16]
 
+
+For example, grid number `1`, assigned to the set of touched squares `{1,2,3,4}`, would correspond to the four squares on the top row of the grid.
+
