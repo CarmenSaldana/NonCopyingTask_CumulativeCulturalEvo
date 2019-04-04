@@ -6,8 +6,8 @@ This repository contains the experimental data files for the manuscript "High-fi
 
 ### Descriptions of the column headings for each .csv data file are as follows: 
 
-- `GridSeen` : input pattern
-- `GridDone` : output pattern
+- `GridSeen` : number assigned to the input pattern. The folder `gridNumberLegend` explains the correspondence between the numbers assigned and the grid patterns.
+- `GridDone` : number assigned to the output pattern. 
 - `Generation` : generation number within the transmission chain
 - `TrialNumber` : trial number
 - `DateTime` : date and time stamp for the trial
